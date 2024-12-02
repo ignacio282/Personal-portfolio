@@ -248,12 +248,14 @@ h5 {
   flex: 0 0 41.6667%;
   text-align: right !important;
   padding: 0 1.5rem;
+ 
 }
 
 .hero-img img {
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
   vertical-align: bottom;
+  
 }
 
 .about-social-list {
@@ -355,7 +357,7 @@ h5 {
 
 .services-row {
   display: flex;
-  row-gap: 6rem;
+  row-gap: 5rem;
   flex-wrap: wrap;
   justify-content: space-between;
 }

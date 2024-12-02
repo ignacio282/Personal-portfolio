@@ -1,5 +1,7 @@
 # Personal Portfolio
 
+![Project Preview](portfolio_preview.jpg)
+
 This is a simple personal portfolio website created with HTML and CSS, designed to showcase my projects from the first semester of the Digital Media master’s program. It serves as a centralized hub to display my work and skills.
 
 ## Features
